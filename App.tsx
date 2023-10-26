@@ -76,8 +76,8 @@ function App(): JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="ExpenseSplitter">
-            <Text style={styles.highlight}>Loginx</Text>
+          <Section title="Expense Splitter">
+            <Text style={styles.highlight}>Login</Text>
           </Section>
           {/* <Section title="See Your Changes">
             <ReloadInstructions />
